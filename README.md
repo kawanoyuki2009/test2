@@ -1,1 +1,2 @@
 # Bootstrapのテストレポジトリ
+Bootstrap+github pagesのテスト
